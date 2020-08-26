@@ -1,5 +1,5 @@
 ## LINK APLIKASI
-<a href="https://travis-ci.org/laravel/framework"><img src="http://aplikasikoperasi.sentosakuekasin.com" alt="LINK APP">APLIKASI KOPERASI SENTOSA SMPN 2 MAROS</a>
+<a href="http://aplikasikoperasi.sentosakuekasin.com">APLIKASI KOPERASI SENTOSA SMPN 2 MAROS</a>
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
